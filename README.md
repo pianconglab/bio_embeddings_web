@@ -1,5 +1,7 @@
 # bio_embeddings_web
 
+bio_embeddings_web 是一个基于 FastAPI 的轻量级 Web 服务，旨在将过时的 [bio_embeddings](https://docs.bioembeddings.com/v0.2.2/) 包的部分函数封装为 REST API，在独立环境中部署和使用。 
+
 ## 依赖
 
 * **Python 3.8**
